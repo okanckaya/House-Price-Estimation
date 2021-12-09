@@ -1,4 +1,5 @@
-# VBO_Final_Project
+# VBO Final Project
+# Forecast of Changing Housing Prices in the Real Estate Sector with the Effect of the Covid-19 Pandemic
 
 In this project, it is aimed to make housing price estimation modeling in the real estate sector, which has changed with the effect of the Covid-19 pandemic. The project is based on the competition provided by Doğuş Teknoloji on Kaggle, and the project data has been obtained from Doğuş Teknoloji's zingat.com.
 
