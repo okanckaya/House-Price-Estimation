@@ -1,0 +1,9 @@
+# RESULTS
+
+The lack of sufficient data on the pandemic process in education data has made modeling the impact of the pandemic on housing sales very difficult and even impossible.
+
+If the date range in the training set regarding the pandemic effect is expanded, the scores of the models during the testing phase will be improved.
+
+Although the data are real sales data, it may have caused quite inconsistent values in prices due to various reasons (such as incorrect data entry, incorrect use of separators such as «.», «,» etc.) (the house sold for 530 million TL in Bağcılar). or a net 70 m2 flat with 1149 rooms).
+
+Levels 1-2-3.. The districts where the flats for the floors are located should be reviewed. A Level 1 flat in Istanbul Beylikdüzü and a Level 1 flat in İzmir Çeşme may not mean the same (the amount of daylight the flat receives, like the facade facing the retaining wall.
