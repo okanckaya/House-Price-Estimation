@@ -121,3 +121,4 @@ All the additional parameters mentioned above can be accessed from the "Addition
 If the effect of socioeconomic status on the average selling price is examined from these new parameters added, the highest socioeconomic status A+, A and A- have the highest average selling price, and the lowest socioeconomic status C has the lowest average selling price.
 ![image](https://user-images.githubusercontent.com/71854717/145396243-d85f8a1e-f63b-429d-9806-e6c059938b37.png)
 
+## ANALYSIS
