@@ -19,9 +19,10 @@ Variables in the training dataset:
 * Elevator
 * Conforms to earthquake regulations
 * Car park
+* Intercom
 * Landscape
 
-![image](https://user-images.githubusercontent.com/71854717/145395283-7f729505-4b91-4319-a6d4-a89725635f2a.png)
+![image](https://user-images.githubusercontent.com/71854717/145420383-8d721087-3921-4675-9a02-d9e13100988d.png)
 
 # Libraries
 Libraries used in this project:
