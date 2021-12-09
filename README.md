@@ -21,6 +21,8 @@ Variables in the training dataset:
 * Car park
 * Landscape
 
+![image](https://user-images.githubusercontent.com/71854717/145395283-7f729505-4b91-4319-a6d4-a89725635f2a.png)
+
 ## EXPLORATORY DATA ANALYSİS
 
 The training dataset's size is 64573x21 and the test dataset's is 35127x21. 33181 of the data in the training dataset consist of residences in Istanbul, and 31387 of them consist of residences in İzmir.
@@ -108,4 +110,14 @@ Housing loan rates and housing price indices are also very effective parameters 
 # Turkish Statistical Institute
 The construction cost index (consisting of two variables as material and labor) was taken from the official data of the Turkish Statistical Institute. These data, which are thought to be effective in the modeling of housing price estimation, have been added to the dataset as a monthly average as well as other data added.
 ![image](https://user-images.githubusercontent.com/71854717/145395079-c1b14ad7-fc4d-40e6-be9a-adb54e2856d1.png)
+
+# zingat.com
+The main source of competition data, zingat.com, offers regional report information, which is very important for many provinces/districts. Among these data presented as a real estate index, the average housing prices in the region, their changes over time, demographic information of the population living in the region, etc. It contains many important information. In this context, the socioeconomic status of the districts in the dataset from zingat.com, the education level of the people of the region, the scores given by the people living in the region for the region (security, noise, proximity to markets and cafes, proximity to transportation, etc.) were also collected and added to the dataset. The relevant parameters have been added to the dataset as they are available on zingat.com (educational status as a percentage, score indices scoring in the 5-point system and 2019-2020 square meter sales price in TL).
+
+![image](https://user-images.githubusercontent.com/71854717/145396058-c17f63af-4320-4757-9293-c8231b9da931.png)
+
+All the additional parameters mentioned above can be accessed from the "Additional Datasets" folder.
+
+If the effect of socioeconomic status on the average selling price is examined from these new parameters added, the highest socioeconomic status A+, A and A- have the highest average selling price, and the lowest socioeconomic status C has the lowest average selling price.
+![image](https://user-images.githubusercontent.com/71854717/145396243-d85f8a1e-f63b-429d-9806-e6c059938b37.png)
 
