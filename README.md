@@ -22,7 +22,7 @@ Variables in the training dataset:
 * Intercom
 * Landscape
 
-![image](https://user-images.githubusercontent.com/71854717/145420698-875b72a8-61a9-4463-9494-454f0d946a1a.png)
+![image](https://user-images.githubusercontent.com/71854717/145420769-b0078c74-9f3c-43f1-9e6b-a185bd4a4fc2.png)
 
 # Libraries
 Libraries used in this project:
